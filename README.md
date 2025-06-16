@@ -25,7 +25,7 @@ I'm a Computer Engineering student at IOE, Purwanchal Campus (TU), with a backgr
 
 ## 🌐 Live Demo
 
-🔗 [Visit Live Website](https://thapa-rupesh064.github.io/My-Portfolio)
+🔗 [Visit Live Website](https://thapa-rupesh064.github.io/My-Portfolio/)
 
 ---
 
