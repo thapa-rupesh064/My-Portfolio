@@ -364,7 +364,7 @@ textarea {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 300px;           /* Fixed width for side-by-side layout */
+    width: 300px;          
     margin: 0;
     transition: transform 0.2s, box-shadow 0.2s;
 }
