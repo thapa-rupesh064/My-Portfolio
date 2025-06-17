@@ -16,3 +16,6 @@ document.addEventListener("DOMContentLoaded", function () {
     sidebar.classList.remove("active");
   });
 });
+document.querySelector('.logo').addEventListener('click', function() {
+  location.reload();
+})
