@@ -7,6 +7,9 @@
     --color-accent: rgba(38, 37, 37, 0.789);
     --color-white: #fafafa;
 }
+html {
+    scroll-behavior: smooth;
+}
 
 * {
     margin: 0;
