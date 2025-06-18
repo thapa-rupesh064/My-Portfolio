@@ -1,7 +1,3 @@
-// let h2s = document.querySelectorAll("h2");
-// for (let i = 0; i < h2s.length; i++) {
-//   h2s[i].style.color = "green";
-// }
 
 document.addEventListener("DOMContentLoaded", function () {
   let hamburger = document.querySelector(".hamburger");
